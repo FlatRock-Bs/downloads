@@ -4,6 +4,7 @@ Windows Registry Editor Version 5.00
 "AllowMUUpdateService"=dword:00000001
 "IsContinuousInnovationOptedIn"=dword:00000001
 "RestartNotificationsAllowed2"=dword:00000001
+"IsExpedited"=dword:00000001
 "PauseFeatureUpdatesStartTime"=-
 "PauseFeatureUpdatesEndTime"=-
 "PauseQualityUpdatesStartTime"=-
