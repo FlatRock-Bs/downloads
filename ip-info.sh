@@ -1,1 +1,1 @@
-echo 'IP: '$(wget -qO - ipinfo.io/ip)'; '$(wget -qO - ipinfo.io/city)
+echo 'IP: '$(curl -s ipinfo.io/ip)'; '$(curl -s ipinfo.io/city)
