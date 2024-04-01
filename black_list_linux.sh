@@ -8,5 +8,4 @@ for domain in "${domains[@]}"; do
     # Add iptables rules to block traffic to the domain on ports 80 (HTTP) and 443 (HTTPS)
     iptables -A INPUT -p tcp --dport 80 -m string --string "$domain" --algo bm -j DROP
     iptables -A INPUT -p tcp --dport 443 -m string --string "$domain" --algo bm -j DROP
-    echo "Blocked traffic to domain: $domain"
 done
