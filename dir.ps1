@@ -38,7 +38,7 @@ function Get-DirectoryStructure {
 }
 
 # Start with the root directory
-$rootDir = "C:\Software"
+$rootDir = "C:\"
 
 # Get the directory structure
 $directoryStructure = Get-DirectoryStructure -path $rootDir
