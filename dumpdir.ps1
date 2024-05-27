@@ -1,5 +1,5 @@
 # Define the output file path
-$outputFile = ".\tmp\directory_structure.txt"
+$outputFile = ".\directory_structure.txt"
 
 # Define the directories to exclude
 $excludeDirs = @(
