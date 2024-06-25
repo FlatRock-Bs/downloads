@@ -1,5 +1,7 @@
 0install-win:
 Adobe Inc.:
+Adobe Inc:
+Adobe Systems:
 Adobe Systems Inc.:
 Adobe Systems Incorporated.:
 Adobe Systems Incorporated:
@@ -9,15 +11,20 @@ AMD:
 Advanced Micro Devices, Inc.:
 Alexander Roshal:
 AnyDesk Software GmbH:
+Apache Software Foundation:
 ASUS:
 ASUSTeK COMPUTER INC.:
 ASUSTeK Computer Inc.:
 ASUSTek Computer Inc.:
 Atlassian:
+AWSVPNClient:
 A-Volute:
+BlueStack Systems, Inc.:
 Brave Software, Inc.:
 BraveSoftware Inc.:
 Brompton Bicycle:
+Brother Industries, Ltd.:
+CANON INC.:
 Citrix Systems, Inc.:
 com.logitech:
 CreateAutoDRSUsers:
@@ -39,10 +46,14 @@ Elan Microelectronics Corporation:
 f.lux Software LLC:
 FileZilla Project:
 Fortemedia:
+g10 Code GmbH:
+GIGA-BYTE TECHNOLOGY CO., LTD.:
+git-credential-manager:
 git-credential-manager-core:
 github.com/jandedobbeleer:
 GitHub:
 GlobalProtect, 6.0.5, 1033, 1604, Palo Alto Networks:
+Goodix:
 Google Inc.:
 Google LLC:
 Google, Inc.:
@@ -55,6 +66,7 @@ HP Inc:
 Intel Corporation:
 Intel(R) Corporation:
 Intel:
+IPS.Api:
 Ivanti, Inc.:
 JetBrains:
 JetBrains s.r.o.:
@@ -69,11 +81,13 @@ Meta Platforms, Inc.:
 Microsoft Corp.:
 Microsoft Corporation:
 Microsoft:
+MicrosoftÂ©:
 Micro-Star International Co., Ltd.:
 Micro-Star INT'L CO., LTD.:
 Mozilla Corporation:
 Mozilla Foundation:
 MsixBackgroundTasksExecutor:
+National Instruments Corporation:
 Node.js:
 NVIDIA Corporation:
 Octopus Data Inc.:
@@ -85,9 +99,12 @@ RealVNC:
 RE.API:
 RelayRecorder:
 PC-Doctor, Inc.:
+Piriform Software Ltd:
+Pixart Imaging Inc:
 Portrait Displays, Inc:
 Postman:
 Python Software Foundation:
+QuickControls:
 Razer Inc.:
 Realtek Semiconductor:
 Sage (UK) Limited:
@@ -101,20 +118,24 @@ Slack Technologies Inc.:
 Sound Research, Corp.:
 Spotify Ltd:
 Spotify:
+SteelSeries ApS:
 Sutherland Global Services Inc:
 Symbol Click:
 Synaptics Incorporated:
 Sysinternals - www.sysinternals.com:
 Sysinternals:
+TechSmith Corporation:
+Telegram FZ-LLC:
 The CefSharp Authors:
 The Git Development Community:
 The NW.js Community:
 The OpenVPN Project:
 The PHP Group:
 The Qt Company Ltd.:
+tonerdo:
 Vanta:
 Viber Media S.Ã  r.l.:
-Viber Media S.Ã  r.l.:
+Wacom Technology, Corp.:
 Waves Audio Ltd.:
 Waves Audio Ltd:
 Wazuh Inc.:
